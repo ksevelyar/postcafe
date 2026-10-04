@@ -1,10 +1,9 @@
 # Waffles
-* oat flour 30g
+* flour 60g
+* oat flour 10g
 * whey protein 10g
-* cocoa 10g
 
-* sweetener 20g
-* egg whites 100g
-* water 100
+* allulose 20g
+* eggs 120g
+* water 100g
 * peanut butter 20g
-

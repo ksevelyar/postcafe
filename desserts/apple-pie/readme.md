@@ -2,18 +2,19 @@
 
 ![Apple Pie](./photo.jpg)
 
-* apples 300g
+## ingrediends
+* apples 200g, cubes
 
-* 4 eggs
-* vanilla extract 5g
-* sweetener 10g
-* 1/2 lemon
+* eggs 240g
+* vanilla extract
+* allulose 130g
 
-* cinnamon 1g
 * salt 1g
-* baking powder 5g
-* baking soda 0.1g
 * flour 140g
 
-# Stage 1
+# prep
+
+
+# baking
 * bake in a 170C oven for 30 minutes
+* wait 30 minutes before touching the form

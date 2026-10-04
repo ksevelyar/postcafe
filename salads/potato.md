@@ -1,4 +1,4 @@
-# Olivier salad
+# potato salad
 
 * grilled chicken breasts 400g
 * potato 400g

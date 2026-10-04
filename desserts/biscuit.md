@@ -1,11 +1,8 @@
-* flour 40g
-* coco flour 10g
-* protein 20g
-* sweetener 50g
-* baking powder 5g
-* 4 eggs
-* salt 1g
-* vanilla extract 5g
+* flour 130g
+* sweetener 130g
+* eggs 240g
+* salt 0.5g
+* vanilla extract
 
 ## Stage 1
-* bake 175 for 30m under paper cover
+* bake in a 170C oven for 30 minutes
